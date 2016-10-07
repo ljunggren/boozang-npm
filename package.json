@@ -1,0 +1,29 @@
+{
+  "name": "boozang",
+  "version": "1.0.0",
+  "description": "This is the npm package that enables Boozang test service. Sign-up for free at http://boozang.com to get your project key.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ljunggren/boozang-npm.git"
+  },
+  "keywords": [
+    "testing",
+    "automatic",
+    "testing",
+    "Boozang",
+    "boozang",
+    "Cloud",
+    "ui",
+    "testing"
+  ],
+  "author": "Mats Ljunggren",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ljunggren/boozang-npm/issues"
+  },
+  "homepage": "https://github.com/ljunggren/boozang-npm#readme"
+}
