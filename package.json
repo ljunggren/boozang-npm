@@ -1,6 +1,6 @@
 {
   "name": "boozang",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "This is the npm package that enables Boozang test service. Sign-up for free at http://boozang.com to get your project key.",
   "main": "index.js",
   "scripts": {
